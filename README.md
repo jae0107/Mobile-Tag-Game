@@ -12,13 +12,19 @@ You don't need to drag the screen, just touch one point which direction you want
 
 ## Run
 
-In MyApplication/www,
-node app.js
+### In MyApplication/www (backend),
 
-in MyApplication,
-cordova emulate android
-or
-cordova emulate ios
+    node app.js
+
+### Run mobile emulator
+
+#### In MyApplication (Android),
+
+    cordova emulate android
+
+#### in MyApplication (IOS),
+
+    cordova emulate ios
 
 ## In game
 
