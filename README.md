@@ -6,6 +6,8 @@ It wins the game when IT tags all runaways, while runaways win the game when run
 
 You don't need to drag the screen, just touch one point which direction you want to go.
 
+If you want to run by directly entering the link on the search bar by either your device or other devices, you should enter a link on the search bar like http://[your IP address]:2000/www/ (e.g. http://192.168.0.31:2000/www/). When you do not run by the emulator, you don’t need to enter the IP address unlike the screenshots above. You just need to enter a link on the search bar like the example above, then touch the screen to start the game.
+
 ## Install dependencies
 
     npm i
