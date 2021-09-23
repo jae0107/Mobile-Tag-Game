@@ -1,6 +1,6 @@
 # Mobile Tag Game
 
-This is a mobile tag game app. This is free for all, so everyone can freely join the game. There are only two roles: IT & runaway.
+This is a mobile tag game app developed in node.js and p5.js. This is free for all, so everyone can freely join the game. There are only two roles: IT & runaway.
 
 It wins the game when IT tags all runaways, while runaways win the game when runaways reach 30 scores.
 
